@@ -16,3 +16,22 @@ SET mykey "Hello Redis"
 GET mykey
 ```
 
+## Install redis Using Docker contaienr
+
+```bash
+docker pull redis
+docker run --name my-redis -p 6379:6379 -d redis
+```
+
+- Test with Redis CLI (inside the container or another terminal):
+
+```bash
+docker exec -it my-redis redis-cli
+SET mykey "Hello Docker Redis"
+GET mykey
+
+```
+
+## Install redis using precompiled version form GitHub
+
+https://github.com/tporadowski/redis/releases
