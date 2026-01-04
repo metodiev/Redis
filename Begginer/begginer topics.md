@@ -3,27 +3,27 @@
 ## Topics:
 
 1. What is Redis?
-- In-memory key-value store
-- Use cases: caching, sessions, queues, leaderboards
+    - In-memory key-value store
+    - Use cases: caching, sessions, queues, leaderboards
 
 2. Installing Redis
 
-- Linux, macOS, Windows (WSL/Docker)
+    - Linux, macOS, Windows (WSL/Docker)
 
 3. Redis CLI basics
 
-- SET, GET, DEL, EXISTS
-- TTL (EXPIRE)
-- KEYS * and SCAN
+    - SET, GET, DEL, EXISTS
+    - TTL (EXPIRE)
+    - KEYS * and SCAN
 
 4. Data types basics
 
-- Strings, Lists, Sets, Hashes, Sorted Sets
+    - Strings, Lists, Sets, Hashes, Sorted Sets
 
 5. Basic configuration
 
-- redis.conf
-- Changing port, persistence, password
+    - redis.conf
+    - Changing port, persistence, password
 
 Exercises:
 

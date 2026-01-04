@@ -4,26 +4,26 @@
 
 1. Advanced Data Structures
 
-- Sorted Sets for leaderboards
-- HyperLogLog for approximate counting
-- Bitmaps / Bitfields
-- Streams for event queues
+    - Sorted Sets for leaderboards
+    - HyperLogLog for approximate counting
+    - Bitmaps / Bitfields
+    - Streams for event queues
 
 2. Persistence & durability
 
-- RDB snapshots vs. AOF logs
-- Configuring persistence for reliability
+    - RDB snapshots vs. AOF logs
+    - Configuring persistence for reliability
 
 3. Lua Scripting
 
-- Run atomic scripts on Redis
-- Complex operations in a single command
+    - Run atomic scripts on Redis
+    - Complex operations in a single command
 
 4. Cluster and replication
 
-- Master-slave replication
-- Redis Sentinel for high availability
-- Basic Redis Cluster setup
+    - Master-slave replication
+    - Redis Sentinel for high availability
+    - Basic Redis Cluster setup
 
 Exercises:
 
