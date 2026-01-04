@@ -35,3 +35,14 @@ GET mykey
 ## Install redis using precompiled version form GitHub
 
 https://github.com/tporadowski/redis/releases
+
+
+
+
+| Level        | Skills/Focus                         | Key Topics                                          |
+| ------------ | ------------------------------------ | --------------------------------------------------- |
+| Beginner     | Setup, CLI, data types               | Strings, Lists, Hashes, TTL                         |
+| Intermediate | Integration, caching, Pub/Sub        | Spring Redis, transactions, caching strategies      |
+| Advanced     | Complex data structures, persistence | Sorted Sets, Streams, Lua, Sentinel                 |
+| Expert       | Scaling, security, monitoring        | Clusters, ACL, benchmarking, TLS                    |
+| Master       | Real-world systems, architecture     | High-availability, microservices, disaster recovery |
